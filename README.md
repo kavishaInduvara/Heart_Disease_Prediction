@@ -12,8 +12,11 @@ Usage
 To utilize the heart disease prediction model:
 
 •	Clone this repository to your local machine.
+
 •	Install the necessary dependencies specified in the requirements.txt file.
+
 •	Run the provided script predict_heart_disease.py with the required input parameters to obtain predictions for heart disease likelihood.
+
 Evaluation
 The performance of the model is evaluated using cross-validation techniques to ensure its generalizability and robustness. Additionally, a comprehensive analysis of the model's metrics and performance is provided in the evaluation.ipynb notebook.
 
