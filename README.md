@@ -3,10 +3,10 @@
 This repository contains a machine learning model developed to predict the likelihood of heart disease in individuals based on various health parameters. Heart disease is a prevalent health concern worldwide, and early detection can significantly improve patient outcomes. The model implemented here utilizes a dataset containing information such as age, sex, blood pressure, cholesterol levels, and other relevant factors to make predictions.
 
 Dataset
-The dataset used for training and testing the model is sourced from [insert dataset source/link]. It includes a diverse range of demographic and health-related features, making it suitable for training a robust prediction model for heart disease.
+The dataset used for training and testing the model is sourced from https://www.kaggle.com/ronitf/heart-disease-uc. It includes a diverse range of demographic and health-related features, making it suitable for training a robust prediction model for heart disease.
 
 Model
-The heart disease prediction model is built using [insert machine learning framework/library], leveraging algorithms such as [insert algorithm names], which have been proven effective in classification tasks. The model is trained on a portion of the dataset and evaluated for its performance using various metrics such as accuracy, precision, recall, and F1-score.
+The heart disease prediction model is built , leveraging algorithms such as KNeighborsClassifier ,DecisionTreeClassifier ,RandomForestClassifier, which have been proven effective in classification tasks. The model is trained on a portion of the dataset and evaluated for its performance using various metrics such as accuracy, precision, recall, and F1-score.
 
 Usage
 To utilize the heart disease prediction model:
